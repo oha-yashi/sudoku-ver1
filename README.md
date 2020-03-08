@@ -1,5 +1,7 @@
 # sudoku-ver1
 
-# how to use
-+ 右上の緑の`Clone or Download`から`Download Zip`
-+ ターミナル上で`sudoku-ver1-master`フォルダに移動して``
+# 使い方
+clone界隈分からん
++ 右上の緑の`Clone or download`から`Download ZIP`
++ ターミナル上で`sudoku-ver1-master`フォルダに移動して`make`で実行ファイル`solveSudoku`を作成
++ さらに`make do`で実行
